@@ -6,7 +6,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 bot_token = "7302390454:AAG10RLLFfWYQJtYbVGIGIYB0CfPcUfP_40"
 bot = telebot.TeleBot(bot_token)
 
-channel_id = "XXXTED5"
+channel_id = "XXXXTED5"
 
 def tik(py_php):
     headers = {
