@@ -3,7 +3,7 @@ import requests
 import os
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-bot_token = "7302390454:AAH4S-rdMQt244f8nN78PaDDmcQEnN0E7ZM"
+bot_token = "7302390454:AAG10RLLFfWYQJtYbVGIGIYB0CfPcUfP_40"
 bot = telebot.TeleBot(bot_token)
 
 channel_id = "XXXTED5"
